@@ -1,5 +1,7 @@
 #Testing
 """ 
+From local to github 
+
 *Terminal
 cd working directory (choosing repository)
 
@@ -16,3 +18,13 @@ Git status
 *Github
 Refresh repository
 """ 
+
+"""
+From github to local 
+
+*Github
+Commit changes
+
+*Terminal
+Git pull 
+"""
